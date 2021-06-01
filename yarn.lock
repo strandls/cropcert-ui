@@ -4935,12 +4935,7 @@ lodash.truncate@^4.4.2:
   resolved "https://registry.yarnpkg.com/lodash.truncate/-/lodash.truncate-4.4.2.tgz#5a350da0b1113b837ecfffd5812cbe58d6eae193"
   integrity sha1-WjUNoLERO4N+z//VgSy+WNbq4ZM=
 
-lodash@^4.17.11, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.20, lodash@^4.17.4:
-  version "4.17.21"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
-  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
-
-lodash@^4.17.21:
+lodash@^4.17.11, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.20, lodash@^4.17.21, lodash@^4.17.4:
   version "4.17.21"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
   integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
@@ -5798,10 +5793,10 @@ react-date-picker@^8.1.0:
     react-fit "^1.0.3"
     update-input-width "^1.1.1"
 
-react-datetime-picker@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/react-datetime-picker/-/react-datetime-picker-3.2.1.tgz#d3a9631bcba17bd0047e6424cff0dfe242d9cf0e"
-  integrity sha512-elybaAL7RJG7r0elYZze5/zQo1ds0v+v89tyZkzEShw+6I1EcveXwYPOMj3aq0k7D5kY/K+dC5dWYw0w4d9kmw==
+react-datetime-picker@^3.3.0:
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/react-datetime-picker/-/react-datetime-picker-3.3.0.tgz#fa10ebf8109b41d9aacea29b2fc69be1f6d98be2"
+  integrity sha512-h9tr0yzPNFQMSGcMzjPqGigN3m0mH4CukJou0bga1/ISQxMVaL+VPZnCCqT+dhdVPS2LaTvx4jEtwjlAGzWOvg==
   dependencies:
     "@wojtekmaj/date-utils" "^1.0.3"
     get-user-locale "^1.2.0"

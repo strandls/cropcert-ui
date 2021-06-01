@@ -23,7 +23,7 @@
     "coffee-flavor-wheel": "^1.1.0",
     "cogo-toast": "^4.2.3",
     "dayjs": "^1.10.5",
-    "dompurify": "^2.2.8",
+    "dompurify": "^2.2.9",
     "dotenv-load": "^2.0.0",
     "easy-peasy": "3",
     "flat": "^5.0.2",
